@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T22:26:32+00:00",
+  "updated_at": "2026-11-07T23:41:31+00:00",
   "period": "all_time",
   "metric": "abstract_views_plus_file_downloads",
   "articles_checked": 164,
@@ -433,5 +433,880 @@
       "pdf": 908,
       "total": 1864
     }
-  ]
+  ],
+  "last_90_days": {
+    "period": "last_90_days",
+    "from": "2026-08-10",
+    "through": "2026-11-07",
+    "method": "historical_events_plus_snapshot_deltas",
+    "coverage": "partial",
+    "missing_event_days": [
+      "2026-11-07"
+    ],
+    "articles_with_complete_window": 0,
+    "articles_ranked": 164,
+    "top_30": [
+      {
+        "id": 303,
+        "title": "Challenging Conventions: Love, Lovers, and Beloveds in Early Modern Ottoman Poetry: Christiane Czygan and Hatice Aynur, eds. De Gruyter, 2025. 206 pp.: ISBN: 9783111341545.",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/303",
+        "authors": [
+          "Enis Tombul"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 462,
+        "pdf": 119,
+        "total": 581
+      },
+      {
+        "id": 301,
+        "title": "Comic Routines of the “Traditional” and the Text in Turkish Theatre",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/301",
+        "authors": [
+          "Nazlı M. Ümit"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 335,
+        "pdf": 228,
+        "total": 563
+      },
+      {
+        "id": 320,
+        "title": "The English Ghost: Unearthing Culture and Heritage Through Ghostlore",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/320",
+        "authors": [
+          "Seda Coşar Çelik"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 333,
+        "pdf": 223,
+        "total": 556
+      },
+      {
+        "id": 340,
+        "title": "The Well-Tempered Reader: The Legitimization of Adab in the Arabic Literary Tradition: Sarah R. Bin Tyeer, University of California Press, 2026. 250 pp.: ISBN 9780520424982",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/340",
+        "authors": [
+          "Ahmet Barış Ekiz"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 367,
+        "pdf": 150,
+        "total": 517
+      },
+      {
+        "id": 318,
+        "title": "Dünya Edebiyatı Konumunda Bilge Karasu",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/318",
+        "authors": [
+          "Azade Seyhan"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 338,
+        "pdf": 177,
+        "total": 515
+      },
+      {
+        "id": 319,
+        "title": "On Translation of Ottoman Poetry 1: My Mistake",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/319",
+        "authors": [
+          "Victoria Rowe Holbrook"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 365,
+        "pdf": 120,
+        "total": 485
+      },
+      {
+        "id": 324,
+        "title": "Fictionalizing History: Hilary Mantel’s New Historicist and Postmodern Reimagining of English National Narratives",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/324",
+        "authors": [
+          "Ahmet Yusuf Akyüz",
+          "İsmail Avcu"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 358,
+        "pdf": 120,
+        "total": 478
+      },
+      {
+        "id": 329,
+        "title": "Literature Against Life:  Communication and Evil in the Writings of Ömer Seyfettin (1884–1920)",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/329",
+        "authors": [
+          "Erik Blackthorne-O'Barr"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 315,
+        "pdf": 163,
+        "total": 478
+      },
+      {
+        "id": 327,
+        "title": "Out of Tune with the World: Thrownness and Everyday Life in Jean Rhys’s Good Morning, Midnight and Tezer Özlü’s Zaman Dışı Yaşam",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/327",
+        "authors": [
+          "Evren Akaltun Akan"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 300,
+        "pdf": 176,
+        "total": 476
+      },
+      {
+        "id": 307,
+        "title": "Posthuman Childhood and the Pedagogy of Becoming in Ursula K. Le Guin’s Catwings Series",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/307",
+        "authors": [
+          "Başak Ağın",
+          "Serra Süeda Öztürk"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 345,
+        "pdf": 119,
+        "total": 464
+      },
+      {
+        "id": 134,
+        "title": "From Polyphony to \"Dual Authorship\": Transfictional Voices in Benden’iz James Joyce",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/134",
+        "authors": [
+          "Hilal Erkazancı Durmuş"
+        ],
+        "issue": "7",
+        "date": "2024/10/30",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 383,
+        "pdf": 80,
+        "total": 463
+      },
+      {
+        "id": 166,
+        "title": "Love, Duty and Sacrifice: The Letters of Pargalı İbrāḥīm to Muḥsine Hanım",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/166",
+        "authors": [
+          "Nilab Saeedi"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 267,
+        "pdf": 191,
+        "total": 458
+      },
+      {
+        "id": 332,
+        "title": "Occasions for Poetry: Politics, Literature, and Imagination Among the Early Modern Ottomans: Oscar Aguirre-Mandujano, University of Pennsylvania Press, 2025. 228 pp.: ISBN 9781512827316",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/332",
+        "authors": [
+          "Nilab Saeedi"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 334,
+        "pdf": 110,
+        "total": 444
+      },
+      {
+        "id": 257,
+        "title": "The Concept of Mimesis: History, Meaning, and Epistemic Context",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/257",
+        "authors": [
+          "Josef Früchtl"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 338,
+        "pdf": 102,
+        "total": 440
+      },
+      {
+        "id": 314,
+        "title": "Literature as a Site of Speculative Thought: On Method and Encounter",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/314",
+        "authors": [
+          "Emre Sünter"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 326,
+        "pdf": 114,
+        "total": 440
+      },
+      {
+        "id": 336,
+        "title": "Muharrir ve Edip Hüseyin Cahit: Asır Sonu Osmanlı Edebiyat ve Matbuat Âleminde Bir Yazar: Veysel Öztürk. Dergâh Yayınları. 2025. 389 pp: ISBN 9786259556185",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/336",
+        "authors": [
+          "Deniz Aktan Küçük"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 315,
+        "pdf": 124,
+        "total": 439
+      },
+      {
+        "id": 308,
+        "title": "Literature’s Refuge: Rewriting the Mediterranean Borderscape: William Stroebel, Princeton University Press, 2025. 320 pp.: ISBN 9780691266091",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/308",
+        "authors": [
+          "Hilal Bektaş"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 301,
+        "pdf": 129,
+        "total": 430
+      },
+      {
+        "id": 334,
+        "title": "The Ottoman Canon and the Construction of Turkish and Arabic Literatures: Ceyhun Arslan, Edinburgh University Press, 2025. 248 pp.: ISBN 9781399525831.",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/334",
+        "authors": [
+          "Esra Tasdelen"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 309,
+        "pdf": 118,
+        "total": 427
+      },
+      {
+        "id": 338,
+        "title": "Canavarların Vaatleri:  Türkçe Feminist Spekülatif Kurmacaya Musallat Olanlar: Ezgi Hamzaçebi. Metis Yayınları, 2025. 320 pp.: ISBN 139786053164326",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/338",
+        "authors": [
+          "Ege Altan"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 294,
+        "pdf": 125,
+        "total": 419
+      },
+      {
+        "id": 331,
+        "title": "Three Empires and Persian Historiography: The Thought of Muṣliḥ al-Dīn Lārī: Nilab Saeedi, Routledge, 2025. 224 pp: ISBN 9781003660507",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/331",
+        "authors": [
+          "Muhammed Salih Sefiloğlu"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 315,
+        "pdf": 102,
+        "total": 417
+      },
+      {
+        "id": 299,
+        "title": "Tragic Vision and Secular Reconciliation with the Divine  in Safiye Erol’s Ülker Fırtınası (Storm of the Pleiades)",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/299",
+        "authors": [
+          "Ahmed Nuri"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 309,
+        "pdf": 104,
+        "total": 413
+      },
+      {
+        "id": 310,
+        "title": "Bir “Kayıp Simülasyonu” Olarak İmkânsız Aşk: Bizim Büyük Çaresizliğimiz’de Melankoli ve Büyümenin Reddi",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/310",
+        "authors": [
+          "Enis Öztürk"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 298,
+        "pdf": 111,
+        "total": 409
+      },
+      {
+        "id": 323,
+        "title": "“Lafzdan Zîrâ ki Ma‘nâdır Garaz”: Eski Türk Edebiyatında Lafız, Mana ve Niyet",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/323",
+        "authors": [
+          "Abdullah Tahir Özdemir"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 284,
+        "pdf": 122,
+        "total": 406
+      },
+      {
+        "id": 325,
+        "title": "Cultural Hybridity on a Plate: Food, Identity and Conflict Resolution in Barış Manço’s “Lahburger”",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/325",
+        "authors": [
+          "Reyyan Bal"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 282,
+        "pdf": 121,
+        "total": 403
+      },
+      {
+        "id": 231,
+        "title": "Abject Mimesis: Grotesque Femininity and the Crisis of Representation in Lady Oracle and The Gaze",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/231",
+        "authors": [
+          "Henrieta Krupa"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 262,
+        "pdf": 71,
+        "total": 333
+      },
+      {
+        "id": 66,
+        "title": "Ezra Pound Mecazi İmgeye Karşı: İmgecilik, Somut Doğrudanlık ve Yeni Eleştiri",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/66",
+        "authors": [
+          "Efe Murat Balıkcıoğlu"
+        ],
+        "issue": "5",
+        "date": "2023/10/18",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 177,
+        "pdf": 140,
+        "total": 317
+      },
+      {
+        "id": 158,
+        "title": "Self as a Failed Project in Samuel Beckett’s Krapp’s Last Tape",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/158",
+        "authors": [
+          "Candan Kızılgöl Özdemir"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 175,
+        "pdf": 132,
+        "total": 307
+      },
+      {
+        "id": 232,
+        "title": "Wandering Metaphors, Woven Worlds: Icons, Buddha-Idols and Demon-Deities from Inner Asia and India to Ottoman Europe",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/232",
+        "authors": [
+          "Zakir Hussein Gul"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 215,
+        "pdf": 86,
+        "total": 301
+      },
+      {
+        "id": 19,
+        "title": "Edebiyatta Hayvan Araştırmaları: Bir mi Birden Fazla mı?",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/19",
+        "authors": [
+          "Susan  McHugh",
+          "Ece  Alparslan",
+          "Cevat  Sucu"
+        ],
+        "issue": "1",
+        "date": "2021/10/28",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 205,
+        "pdf": 83,
+        "total": 288
+      },
+      {
+        "id": 409,
+        "title": "Unutmak İçin Yürümek: Açık Şehir ve Uzun Yürüyüş’te Yapısal Travmanın Bedensel Formu",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/409",
+        "authors": [
+          "Esen Kara"
+        ],
+        "issue": "11",
+        "date": "2026/10/28",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 114,
+        "pdf": 169,
+        "total": 283
+      }
+    ]
+  },
+  "last_365_days": {
+    "period": "last_365_days",
+    "from": "2025-11-08",
+    "through": "2026-11-07",
+    "method": "historical_events_plus_snapshot_deltas",
+    "coverage": "partial",
+    "missing_event_days": [
+      "2026-11-07"
+    ],
+    "articles_with_complete_window": 0,
+    "articles_ranked": 164,
+    "top_30": [
+      {
+        "id": 166,
+        "title": "Love, Duty and Sacrifice: The Letters of Pargalı İbrāḥīm to Muḥsine Hanım",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/166",
+        "authors": [
+          "Nilab Saeedi"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1821,
+        "pdf": 1394,
+        "total": 3215
+      },
+      {
+        "id": 220,
+        "title": "Grotesque Sound Poetics and Performative Mimesis in Edith Sitwell’s “Polka”",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/220",
+        "authors": [
+          "Tuğba Karabulut"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 948,
+        "pdf": 1444,
+        "total": 2392
+      },
+      {
+        "id": 134,
+        "title": "From Polyphony to \"Dual Authorship\": Transfictional Voices in Benden’iz James Joyce",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/134",
+        "authors": [
+          "Hilal Erkazancı Durmuş"
+        ],
+        "issue": "7",
+        "date": "2024/10/30",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1357,
+        "pdf": 813,
+        "total": 2170
+      },
+      {
+        "id": 165,
+        "title": "Nâzım Hikmet'in Şiirlerinde Kötülük",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/165",
+        "authors": [
+          "Ürün Şen Sönmez"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 859,
+        "pdf": 1237,
+        "total": 2096
+      },
+      {
+        "id": 29,
+        "title": "Beyond Punishment: Waiting Under the Panoptic Gaze in Aziz’s The Queue",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/29",
+        "authors": [
+          "Aqsa Eram",
+          "Mohd Raghibul Haque"
+        ],
+        "issue": "3",
+        "date": "2022/10/31",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 435,
+        "pdf": 1641,
+        "total": 2076
+      },
+      {
+        "id": 232,
+        "title": "Wandering Metaphors, Woven Worlds: Icons, Buddha-Idols and Demon-Deities from Inner Asia and India to Ottoman Europe",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/232",
+        "authors": [
+          "Zakir Hussein Gul"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 990,
+        "pdf": 1045,
+        "total": 2035
+      },
+      {
+        "id": 243,
+        "title": "Cumhuriyet Şiirinin Kısa Tarihi: Bastırılanın Dönüşü",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/243",
+        "authors": [
+          "Yalçın Armağan"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 922,
+        "pdf": 1090,
+        "total": 2012
+      },
+      {
+        "id": 248,
+        "title": "Sadeleştirilmiş Yaşam: Aristoteles'te Mimesis ve Şiirin Tümelliği",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/248",
+        "authors": [
+          "Hakan Yücefer"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1124,
+        "pdf": 881,
+        "total": 2005
+      },
+      {
+        "id": 268,
+        "title": "Sanem: Farsî Verneküler Kuramlarında Mimesis",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/268",
+        "authors": [
+          "Samuel Hodgkin",
+          "Cevat Sucu"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1417,
+        "pdf": 559,
+        "total": 1976
+      },
+      {
+        "id": 141,
+        "title": "Halide Edib Adıvar: The Forgotten (Self-)Translator Behind the Writer",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/141",
+        "authors": [
+          "Nur Zeynep Kürük Erçetin"
+        ],
+        "issue": "7",
+        "date": "2024/10/30",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 620,
+        "pdf": 1258,
+        "total": 1878
+      },
+      {
+        "id": 320,
+        "title": "The English Ghost: Unearthing Culture and Heritage Through Ghostlore",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/320",
+        "authors": [
+          "Seda Coşar Çelik"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 732,
+        "pdf": 1089,
+        "total": 1821
+      },
+      {
+        "id": 319,
+        "title": "On Translation of Ottoman Poetry 1: My Mistake",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/319",
+        "authors": [
+          "Victoria Rowe Holbrook"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 895,
+        "pdf": 849,
+        "total": 1744
+      },
+      {
+        "id": 231,
+        "title": "Abject Mimesis: Grotesque Femininity and the Crisis of Representation in Lady Oracle and The Gaze",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/231",
+        "authors": [
+          "Henrieta Krupa"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1282,
+        "pdf": 442,
+        "total": 1724
+      },
+      {
+        "id": 234,
+        "title": "The Architecture of Mimesis in Plato and in the Quran",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/234",
+        "authors": [
+          "Victoria Rowe Holbrook"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1051,
+        "pdf": 670,
+        "total": 1721
+      },
+      {
+        "id": 21,
+        "title": "Reshaping the Balance: How Gilman Critiques and Constructs a Feminist Utopia in Herland",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/21",
+        "authors": [
+          "Chang Li"
+        ],
+        "issue": "3",
+        "date": "2022/10/31",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 827,
+        "pdf": 886,
+        "total": 1713
+      },
+      {
+        "id": 301,
+        "title": "Comic Routines of the “Traditional” and the Text in Turkish Theatre",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/301",
+        "authors": [
+          "Nazlı M. Ümit"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 830,
+        "pdf": 868,
+        "total": 1698
+      },
+      {
+        "id": 327,
+        "title": "Out of Tune with the World: Thrownness and Everyday Life in Jean Rhys’s Good Morning, Midnight and Tezer Özlü’s Zaman Dışı Yaşam",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/327",
+        "authors": [
+          "Evren Akaltun Akan"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 871,
+        "pdf": 788,
+        "total": 1659
+      },
+      {
+        "id": 146,
+        "title": "XIX-XX. Asır Osmanlısında Muzır Yahut Yasaklı Yayınlara Ait Belgeler: Ebu Müslim Destanı",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/146",
+        "authors": [
+          "Ali Kozan"
+        ],
+        "issue": "7",
+        "date": "2024/10/30",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1321,
+        "pdf": 318,
+        "total": 1639
+      },
+      {
+        "id": 303,
+        "title": "Challenging Conventions: Love, Lovers, and Beloveds in Early Modern Ottoman Poetry: Christiane Czygan and Hatice Aynur, eds. De Gruyter, 2025. 206 pp.: ISBN: 9783111341545.",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/303",
+        "authors": [
+          "Enis Tombul"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1032,
+        "pdf": 599,
+        "total": 1631
+      },
+      {
+        "id": 66,
+        "title": "Ezra Pound Mecazi İmgeye Karşı: İmgecilik, Somut Doğrudanlık ve Yeni Eleştiri",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/66",
+        "authors": [
+          "Efe Murat Balıkcıoğlu"
+        ],
+        "issue": "5",
+        "date": "2023/10/18",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 837,
+        "pdf": 791,
+        "total": 1628
+      },
+      {
+        "id": 197,
+        "title": "Fuad Köprülü’nün Evrimi: Kozmopolit Düşünceden Millî Edebiyat Tarihine (1909-1913)",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/197",
+        "authors": [
+          "Fatih Altuğ"
+        ],
+        "issue": "8",
+        "date": "2025/04/30",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 930,
+        "pdf": 695,
+        "total": 1625
+      },
+      {
+        "id": 25,
+        "title": "Distopik Yazında Umudun Yolculuğu",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/25",
+        "authors": [
+          "Emrah Atasoy",
+          "Burcu Kayışcı Akkoyun"
+        ],
+        "issue": "3",
+        "date": "2022/10/31",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 728,
+        "pdf": 896,
+        "total": 1624
+      },
+      {
+        "id": 63,
+        "title": "The Voice of a Pragmatic Moralist: Slavery, Marriage, and Doppelgängers in P. Fahriye’s Turn-of-the-century Novella Dilfikâr (The Brokenhearted)",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/63",
+        "authors": [
+          "Iclal Vanwesenbeeck"
+        ],
+        "issue": "4",
+        "date": "2023/05/04",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 424,
+        "pdf": 1198,
+        "total": 1622
+      },
+      {
+        "id": 257,
+        "title": "The Concept of Mimesis: History, Meaning, and Epistemic Context",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/257",
+        "authors": [
+          "Josef Früchtl"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1078,
+        "pdf": 534,
+        "total": 1612
+      },
+      {
+        "id": 158,
+        "title": "Self as a Failed Project in Samuel Beckett’s Krapp’s Last Tape",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/158",
+        "authors": [
+          "Candan Kızılgöl Özdemir"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 986,
+        "pdf": 613,
+        "total": 1599
+      },
+      {
+        "id": 15,
+        "title": "Nature Strikes Back: A Post-human Gaze into Eco-critical Narratives of James Cameron’s Avatar",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/15",
+        "authors": [
+          "Sutirtho  Roy"
+        ],
+        "issue": "1",
+        "date": "2021/10/28",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 973,
+        "pdf": 580,
+        "total": 1553
+      },
+      {
+        "id": 329,
+        "title": "Literature Against Life:  Communication and Evil in the Writings of Ömer Seyfettin (1884–1920)",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/329",
+        "authors": [
+          "Erik Blackthorne-O'Barr"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 804,
+        "pdf": 714,
+        "total": 1518
+      },
+      {
+        "id": 261,
+        "title": "Tanrısal Sessizlikte Yankılanan İnsan Sesi: Tevfik Fikret ve Modern Osmanlı Şiiri: Deniz Aktan Küçük. Tabiat Kitap, 2023. 360 pp.: ISBN 9786057111876",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/261",
+        "authors": [
+          "Emrah Pelvanoğlu"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 760,
+        "pdf": 706,
+        "total": 1466
+      },
+      {
+        "id": 217,
+        "title": "Writing in Red: Literature and Revolution across Turkey and the Soviet Union: Nergis Ertürk, Columbia University Press, 2024. 360 pp.: ISBN 9780231214858.",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/217",
+        "authors": [
+          "Berfin Çiçek"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 945,
+        "pdf": 483,
+        "total": 1428
+      },
+      {
+        "id": 247,
+        "title": "Taklitteki Gerçek: Graham Harman'ın Felsefesinde Metafor ve Mimesis",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/247",
+        "authors": [
+          "Hakan Atay"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 856,
+        "pdf": 559,
+        "total": 1415
+      }
+    ]
+  }
 }
