@@ -1,0 +1,666 @@
+{
+  "schema_version": 1,
+  "snapshots": {
+    "2026-11-07": {
+      "captured_at": "2026-11-07T22:26:32+00:00",
+      "articles": {
+        "21": {
+          "abstract": 1559,
+          "pdf": 2108
+        },
+        "134": {
+          "abstract": 2377,
+          "pdf": 1084
+        },
+        "166": {
+          "abstract": 1873,
+          "pdf": 1456
+        },
+        "25": {
+          "abstract": 1528,
+          "pdf": 1774
+        },
+        "29": {
+          "abstract": 792,
+          "pdf": 2159
+        },
+        "15": {
+          "abstract": 1600,
+          "pdf": 957
+        },
+        "66": {
+          "abstract": 1350,
+          "pdf": 1181
+        },
+        "220": {
+          "abstract": 1054,
+          "pdf": 1476
+        },
+        "141": {
+          "abstract": 1079,
+          "pdf": 1413
+        },
+        "117": {
+          "abstract": 1623,
+          "pdf": 763
+        },
+        "197": {
+          "abstract": 1376,
+          "pdf": 954
+        },
+        "122": {
+          "abstract": 1139,
+          "pdf": 1132
+        },
+        "143": {
+          "abstract": 1457,
+          "pdf": 783
+        },
+        "232": {
+          "abstract": 1091,
+          "pdf": 1093
+        },
+        "165": {
+          "abstract": 906,
+          "pdf": 1271
+        },
+        "60": {
+          "abstract": 1259,
+          "pdf": 889
+        },
+        "248": {
+          "abstract": 1228,
+          "pdf": 917
+        },
+        "243": {
+          "abstract": 1027,
+          "pdf": 1107
+        },
+        "63": {
+          "abstract": 649,
+          "pdf": 1466
+        },
+        "155": {
+          "abstract": 1345,
+          "pdf": 755
+        },
+        "268": {
+          "abstract": 1474,
+          "pdf": 588
+        },
+        "146": {
+          "abstract": 1616,
+          "pdf": 438
+        },
+        "84": {
+          "abstract": 1482,
+          "pdf": 516
+        },
+        "44": {
+          "abstract": 946,
+          "pdf": 1050
+        },
+        "33": {
+          "abstract": 910,
+          "pdf": 1056
+        },
+        "93": {
+          "abstract": 1272,
+          "pdf": 694
+        },
+        "19": {
+          "abstract": 1223,
+          "pdf": 737
+        },
+        "38": {
+          "abstract": 883,
+          "pdf": 1004
+        },
+        "234": {
+          "abstract": 1159,
+          "pdf": 725
+        },
+        "6": {
+          "abstract": 956,
+          "pdf": 908
+        },
+        "57": {
+          "abstract": 727,
+          "pdf": 1122
+        },
+        "231": {
+          "abstract": 1340,
+          "pdf": 466
+        },
+        "320": {
+          "abstract": 732,
+          "pdf": 1069
+        },
+        "59": {
+          "abstract": 708,
+          "pdf": 1054
+        },
+        "319": {
+          "abstract": 895,
+          "pdf": 849
+        },
+        "126": {
+          "abstract": 1091,
+          "pdf": 652
+        },
+        "184": {
+          "abstract": 808,
+          "pdf": 909
+        },
+        "158": {
+          "abstract": 1042,
+          "pdf": 671
+        },
+        "35": {
+          "abstract": 981,
+          "pdf": 730
+        },
+        "301": {
+          "abstract": 830,
+          "pdf": 868
+        },
+        "81": {
+          "abstract": 721,
+          "pdf": 976
+        },
+        "257": {
+          "abstract": 1116,
+          "pdf": 551
+        },
+        "105": {
+          "abstract": 963,
+          "pdf": 691
+        },
+        "327": {
+          "abstract": 871,
+          "pdf": 783
+        },
+        "201": {
+          "abstract": 1178,
+          "pdf": 451
+        },
+        "13": {
+          "abstract": 861,
+          "pdf": 753
+        },
+        "303": {
+          "abstract": 1032,
+          "pdf": 578
+        },
+        "191": {
+          "abstract": 813,
+          "pdf": 778
+        },
+        "78": {
+          "abstract": 802,
+          "pdf": 777
+        },
+        "123": {
+          "abstract": 777,
+          "pdf": 797
+        },
+        "75": {
+          "abstract": 1060,
+          "pdf": 512
+        },
+        "56": {
+          "abstract": 876,
+          "pdf": 671
+        },
+        "88": {
+          "abstract": 769,
+          "pdf": 778
+        },
+        "50": {
+          "abstract": 747,
+          "pdf": 795
+        },
+        "261": {
+          "abstract": 804,
+          "pdf": 736
+        },
+        "242": {
+          "abstract": 1034,
+          "pdf": 496
+        },
+        "185": {
+          "abstract": 788,
+          "pdf": 728
+        },
+        "329": {
+          "abstract": 804,
+          "pdf": 711
+        },
+        "245": {
+          "abstract": 958,
+          "pdf": 556
+        },
+        "217": {
+          "abstract": 988,
+          "pdf": 521
+        },
+        "247": {
+          "abstract": 925,
+          "pdf": 584
+        },
+        "112": {
+          "abstract": 835,
+          "pdf": 669
+        },
+        "228": {
+          "abstract": 980,
+          "pdf": 499
+        },
+        "235": {
+          "abstract": 857,
+          "pdf": 620
+        },
+        "99": {
+          "abstract": 871,
+          "pdf": 582
+        },
+        "136": {
+          "abstract": 676,
+          "pdf": 772
+        },
+        "152": {
+          "abstract": 853,
+          "pdf": 589
+        },
+        "74": {
+          "abstract": 921,
+          "pdf": 514
+        },
+        "124": {
+          "abstract": 746,
+          "pdf": 677
+        },
+        "41": {
+          "abstract": 751,
+          "pdf": 671
+        },
+        "70": {
+          "abstract": 813,
+          "pdf": 605
+        },
+        "265": {
+          "abstract": 954,
+          "pdf": 463
+        },
+        "254": {
+          "abstract": 943,
+          "pdf": 467
+        },
+        "98": {
+          "abstract": 889,
+          "pdf": 519
+        },
+        "102": {
+          "abstract": 884,
+          "pdf": 520
+        },
+        "129": {
+          "abstract": 753,
+          "pdf": 644
+        },
+        "147": {
+          "abstract": 958,
+          "pdf": 432
+        },
+        "307": {
+          "abstract": 900,
+          "pdf": 486
+        },
+        "198": {
+          "abstract": 843,
+          "pdf": 538
+        },
+        "73": {
+          "abstract": 703,
+          "pdf": 676
+        },
+        "148": {
+          "abstract": 942,
+          "pdf": 435
+        },
+        "110": {
+          "abstract": 785,
+          "pdf": 589
+        },
+        "37": {
+          "abstract": 725,
+          "pdf": 640
+        },
+        "5": {
+          "abstract": 811,
+          "pdf": 550
+        },
+        "222": {
+          "abstract": 778,
+          "pdf": 580
+        },
+        "318": {
+          "abstract": 857,
+          "pdf": 501
+        },
+        "4": {
+          "abstract": 728,
+          "pdf": 628
+        },
+        "255": {
+          "abstract": 899,
+          "pdf": 457
+        },
+        "200": {
+          "abstract": 822,
+          "pdf": 523
+        },
+        "87": {
+          "abstract": 694,
+          "pdf": 635
+        },
+        "144": {
+          "abstract": 874,
+          "pdf": 453
+        },
+        "49": {
+          "abstract": 656,
+          "pdf": 658
+        },
+        "10": {
+          "abstract": 773,
+          "pdf": 540
+        },
+        "79": {
+          "abstract": 778,
+          "pdf": 534
+        },
+        "7": {
+          "abstract": 715,
+          "pdf": 576
+        },
+        "340": {
+          "abstract": 877,
+          "pdf": 402
+        },
+        "18": {
+          "abstract": 737,
+          "pdf": 535
+        },
+        "42": {
+          "abstract": 643,
+          "pdf": 626
+        },
+        "89": {
+          "abstract": 736,
+          "pdf": 528
+        },
+        "62": {
+          "abstract": 626,
+          "pdf": 635
+        },
+        "164": {
+          "abstract": 749,
+          "pdf": 509
+        },
+        "3": {
+          "abstract": 782,
+          "pdf": 472
+        },
+        "204": {
+          "abstract": 708,
+          "pdf": 542
+        },
+        "180": {
+          "abstract": 733,
+          "pdf": 507
+        },
+        "80": {
+          "abstract": 755,
+          "pdf": 461
+        },
+        "125": {
+          "abstract": 784,
+          "pdf": 432
+        },
+        "8": {
+          "abstract": 611,
+          "pdf": 600
+        },
+        "100": {
+          "abstract": 708,
+          "pdf": 496
+        },
+        "194": {
+          "abstract": 764,
+          "pdf": 440
+        },
+        "115": {
+          "abstract": 706,
+          "pdf": 493
+        },
+        "250": {
+          "abstract": 729,
+          "pdf": 469
+        },
+        "2": {
+          "abstract": 701,
+          "pdf": 492
+        },
+        "61": {
+          "abstract": 711,
+          "pdf": 479
+        },
+        "334": {
+          "abstract": 818,
+          "pdf": 369
+        },
+        "83": {
+          "abstract": 619,
+          "pdf": 567
+        },
+        "90": {
+          "abstract": 692,
+          "pdf": 487
+        },
+        "119": {
+          "abstract": 613,
+          "pdf": 558
+        },
+        "324": {
+          "abstract": 812,
+          "pdf": 356
+        },
+        "95": {
+          "abstract": 704,
+          "pdf": 457
+        },
+        "107": {
+          "abstract": 692,
+          "pdf": 469
+        },
+        "145": {
+          "abstract": 668,
+          "pdf": 491
+        },
+        "64": {
+          "abstract": 612,
+          "pdf": 545
+        },
+        "138": {
+          "abstract": 659,
+          "pdf": 492
+        },
+        "314": {
+          "abstract": 766,
+          "pdf": 374
+        },
+        "40": {
+          "abstract": 649,
+          "pdf": 483
+        },
+        "259": {
+          "abstract": 713,
+          "pdf": 413
+        },
+        "325": {
+          "abstract": 692,
+          "pdf": 429
+        },
+        "323": {
+          "abstract": 714,
+          "pdf": 385
+        },
+        "20": {
+          "abstract": 493,
+          "pdf": 605
+        },
+        "310": {
+          "abstract": 713,
+          "pdf": 374
+        },
+        "332": {
+          "abstract": 763,
+          "pdf": 313
+        },
+        "11": {
+          "abstract": 546,
+          "pdf": 519
+        },
+        "85": {
+          "abstract": 663,
+          "pdf": 402
+        },
+        "299": {
+          "abstract": 756,
+          "pdf": 294
+        },
+        "14": {
+          "abstract": 577,
+          "pdf": 469
+        },
+        "9": {
+          "abstract": 545,
+          "pdf": 487
+        },
+        "308": {
+          "abstract": 664,
+          "pdf": 364
+        },
+        "336": {
+          "abstract": 689,
+          "pdf": 332
+        },
+        "338": {
+          "abstract": 650,
+          "pdf": 359
+        },
+        "331": {
+          "abstract": 696,
+          "pdf": 301
+        },
+        "120": {
+          "abstract": 626,
+          "pdf": 366
+        },
+        "86": {
+          "abstract": 592,
+          "pdf": 384
+        },
+        "17": {
+          "abstract": 499,
+          "pdf": 443
+        },
+        "12": {
+          "abstract": 530,
+          "pdf": 392
+        },
+        "409": {
+          "abstract": 114,
+          "pdf": 169
+        },
+        "343": {
+          "abstract": 155,
+          "pdf": 98
+        },
+        "363": {
+          "abstract": 121,
+          "pdf": 70
+        },
+        "230": {
+          "abstract": 84,
+          "pdf": 69
+        },
+        "415": {
+          "abstract": 75,
+          "pdf": 70
+        },
+        "429": {
+          "abstract": 103,
+          "pdf": 36
+        },
+        "425": {
+          "abstract": 88,
+          "pdf": 35
+        },
+        "405": {
+          "abstract": 81,
+          "pdf": 40
+        },
+        "410": {
+          "abstract": 90,
+          "pdf": 27
+        },
+        "404": {
+          "abstract": 79,
+          "pdf": 37
+        },
+        "397": {
+          "abstract": 76,
+          "pdf": 38
+        },
+        "394": {
+          "abstract": 79,
+          "pdf": 31
+        },
+        "379": {
+          "abstract": 78,
+          "pdf": 30
+        },
+        "431": {
+          "abstract": 59,
+          "pdf": 47
+        },
+        "399": {
+          "abstract": 82,
+          "pdf": 21
+        },
+        "421": {
+          "abstract": 73,
+          "pdf": 30
+        },
+        "396": {
+          "abstract": 64,
+          "pdf": 35
+        },
+        "428": {
+          "abstract": 63,
+          "pdf": 35
+        },
+        "434": {
+          "abstract": 53,
+          "pdf": 39
+        },
+        "430": {
+          "abstract": 58,
+          "pdf": 30
+        }
+      }
+    }
+  }
+}
