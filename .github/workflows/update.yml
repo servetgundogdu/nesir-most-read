@@ -34,7 +34,7 @@ jobs:
           if [ -f most_read.json ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add article_ids.json most_read.json
+            git add article_ids.json most_read.json statistics_history.json
             if ! git diff --cached --quiet; then
               git commit -m "Update most-read article statistics"
               git push
