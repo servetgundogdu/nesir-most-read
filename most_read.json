@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:25:54+00:00",
+  "updated_at": "2026-11-07T21:50:38+00:00",
   "period": "all_time",
   "metric": "abstract_views_plus_file_downloads",
   "articles_checked": 164,
@@ -14,9 +14,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1557,
-      "pdf": 2107,
-      "total": 3664
+      "abstract": 1559,
+      "pdf": 2108,
+      "total": 3667
     },
     {
       "id": 134,
@@ -28,9 +28,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 2373,
+      "abstract": 2377,
       "pdf": 1084,
-      "total": 3457
+      "total": 3461
     },
     {
       "id": 166,
@@ -42,9 +42,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1869,
-      "pdf": 1455,
-      "total": 3324
+      "abstract": 1873,
+      "pdf": 1456,
+      "total": 3329
     },
     {
       "id": 25,
@@ -57,9 +57,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1524,
-      "pdf": 1773,
-      "total": 3297
+      "abstract": 1528,
+      "pdf": 1774,
+      "total": 3302
     },
     {
       "id": 29,
@@ -72,9 +72,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 791,
+      "abstract": 792,
       "pdf": 2159,
-      "total": 2950
+      "total": 2951
     },
     {
       "id": 15,
@@ -86,23 +86,9 @@
       "issue": "1",
       "date": "2021/10/28",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1595,
+      "abstract": 1600,
       "pdf": 957,
-      "total": 2552
-    },
-    {
-      "id": 220,
-      "title": "Grotesque Sound Poetics and Performative Mimesis in Edith Sitwell’s “Polka”",
-      "url": "https://nesirdergisi.com/index.php/nesir/article/view/220",
-      "authors": [
-        "Tuğba Karabulut"
-      ],
-      "issue": "9",
-      "date": "2025/10/23",
-      "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1053,
-      "pdf": 1476,
-      "total": 2529
+      "total": 2557
     },
     {
       "id": 66,
@@ -114,9 +100,23 @@
       "issue": "5",
       "date": "2023/10/18",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1342,
-      "pdf": 1180,
-      "total": 2522
+      "abstract": 1350,
+      "pdf": 1181,
+      "total": 2531
+    },
+    {
+      "id": 220,
+      "title": "Grotesque Sound Poetics and Performative Mimesis in Edith Sitwell’s “Polka”",
+      "url": "https://nesirdergisi.com/index.php/nesir/article/view/220",
+      "authors": [
+        "Tuğba Karabulut"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
+      "abstract": 1054,
+      "pdf": 1476,
+      "total": 2530
     },
     {
       "id": 141,
@@ -128,9 +128,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1078,
+      "abstract": 1079,
       "pdf": 1413,
-      "total": 2491
+      "total": 2492
     },
     {
       "id": 117,
@@ -142,9 +142,9 @@
       "issue": "6",
       "date": "2024/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1622,
+      "abstract": 1623,
       "pdf": 763,
-      "total": 2385
+      "total": 2386
     },
     {
       "id": 197,
@@ -156,9 +156,9 @@
       "issue": "8",
       "date": "2025/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1375,
+      "abstract": 1376,
       "pdf": 954,
-      "total": 2329
+      "total": 2330
     },
     {
       "id": 122,
@@ -170,9 +170,9 @@
       "issue": "6",
       "date": "2024/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1138,
-      "pdf": 1130,
-      "total": 2268
+      "abstract": 1139,
+      "pdf": 1132,
+      "total": 2271
     },
     {
       "id": 143,
@@ -185,9 +185,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1454,
-      "pdf": 782,
-      "total": 2236
+      "abstract": 1457,
+      "pdf": 783,
+      "total": 2240
     },
     {
       "id": 232,
@@ -199,9 +199,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1086,
+      "abstract": 1091,
       "pdf": 1093,
-      "total": 2179
+      "total": 2184
     },
     {
       "id": 165,
@@ -213,9 +213,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 904,
+      "abstract": 906,
       "pdf": 1271,
-      "total": 2175
+      "total": 2177
     },
     {
       "id": 60,
@@ -227,9 +227,9 @@
       "issue": "4",
       "date": "2023/05/04",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1258,
-      "pdf": 887,
-      "total": 2145
+      "abstract": 1259,
+      "pdf": 889,
+      "total": 2148
     },
     {
       "id": 248,
@@ -241,9 +241,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1222,
+      "abstract": 1228,
       "pdf": 917,
-      "total": 2139
+      "total": 2145
     },
     {
       "id": 243,
@@ -255,9 +255,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1024,
+      "abstract": 1027,
       "pdf": 1107,
-      "total": 2131
+      "total": 2134
     },
     {
       "id": 63,
@@ -269,9 +269,9 @@
       "issue": "4",
       "date": "2023/05/04",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 647,
+      "abstract": 649,
       "pdf": 1466,
-      "total": 2113
+      "total": 2115
     },
     {
       "id": 155,
@@ -283,9 +283,9 @@
       "issue": "8",
       "date": "2025/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1344,
-      "pdf": 754,
-      "total": 2098
+      "abstract": 1345,
+      "pdf": 755,
+      "total": 2100
     },
     {
       "id": 268,
@@ -298,9 +298,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1471,
+      "abstract": 1474,
       "pdf": 588,
-      "total": 2059
+      "total": 2062
     },
     {
       "id": 146,
@@ -312,9 +312,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1615,
+      "abstract": 1616,
       "pdf": 438,
-      "total": 2053
+      "total": 2054
     },
     {
       "id": 84,
@@ -327,9 +327,9 @@
       "issue": "5",
       "date": "2023/10/18",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1480,
+      "abstract": 1482,
       "pdf": 516,
-      "total": 1996
+      "total": 1998
     },
     {
       "id": 44,
@@ -342,9 +342,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 945,
-      "pdf": 1048,
-      "total": 1993
+      "abstract": 946,
+      "pdf": 1050,
+      "total": 1996
     },
     {
       "id": 33,
@@ -356,9 +356,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 909,
+      "abstract": 910,
       "pdf": 1056,
-      "total": 1965
+      "total": 1966
     },
     {
       "id": 93,
@@ -370,9 +370,9 @@
       "issue": "6",
       "date": "2024/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1269,
+      "abstract": 1272,
       "pdf": 694,
-      "total": 1963
+      "total": 1966
     },
     {
       "id": 19,
@@ -386,9 +386,9 @@
       "issue": "1",
       "date": "2021/10/28",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1218,
-      "pdf": 734,
-      "total": 1952
+      "abstract": 1223,
+      "pdf": 737,
+      "total": 1960
     },
     {
       "id": 38,
@@ -400,9 +400,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 882,
-      "pdf": 1003,
-      "total": 1885
+      "abstract": 883,
+      "pdf": 1004,
+      "total": 1887
     },
     {
       "id": 234,
@@ -414,9 +414,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1158,
+      "abstract": 1159,
       "pdf": 725,
-      "total": 1883
+      "total": 1884
     },
     {
       "id": 6,
@@ -429,9 +429,9 @@
       "issue": "2",
       "date": "2022/04/28",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 954,
+      "abstract": 956,
       "pdf": 908,
-      "total": 1862
+      "total": 1864
     }
   ]
 }
