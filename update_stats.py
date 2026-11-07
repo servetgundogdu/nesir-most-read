@@ -21,8 +21,8 @@ TOP_N = 30
 session = requests.Session()
 session.headers.update({
     "User-Agent": (
-        "NesirMostReadUpdater/1.0 "
-        "(public journal statistics; daily scheduled check)"
+        "NesirMostReadUpdater/1.1 "
+        "(public journal statistics; scheduled check)"
     ),
     "Accept": "text/html",
 })
@@ -33,6 +33,19 @@ def parse_number(value):
     if not re.fullmatch(r"\d+", cleaned):
         raise ValueError(f"Invalid statistic: {value!r}")
     return int(cleaned)
+
+
+def get_meta(soup, name):
+    tag = soup.select_one(f'meta[name="{name}"]')
+    return tag.get("content", "").strip() if tag else ""
+
+
+def get_authors(soup):
+    return [
+        tag.get("content", "").strip()
+        for tag in soup.select('meta[name="citation_author"]')
+        if tag.get("content", "").strip()
+    ]
 
 
 def read_article(article_id):
@@ -61,27 +74,29 @@ def read_article(article_id):
                 for node in stats
             ]
 
-            title_tag = soup.select_one(
-                'meta[name="citation_title"]'
-            )
-
-            if not title_tag:
-                raise ValueError(
-                    "Article title metadata not found"
-                )
-
-            title = title_tag.get("content", "").strip()
+            title = get_meta(soup, "citation_title")
 
             if not title:
-                raise ValueError("Empty article title")
+                raise ValueError("Article title missing")
 
             abstract_views = counts[0]
             file_downloads = sum(counts[1:])
+
+            authors = get_authors(soup)
+            issue = get_meta(soup, "citation_issue")
+            date = get_meta(soup, "citation_date")
+            journal = get_meta(
+                soup, "citation_journal_title"
+            )
 
             return {
                 "id": article_id,
                 "title": title,
                 "url": url,
+                "authors": authors,
+                "issue": issue,
+                "date": date,
+                "journal": journal,
                 "abstract": abstract_views,
                 "pdf": file_downloads,
                 "total": abstract_views + file_downloads,
@@ -127,7 +142,7 @@ def main():
         )
 
     print(
-        f"Reading statistics for {len(ids)} articles",
+        f"Reading {len(ids)} articles",
         flush=True,
     )
 
@@ -161,7 +176,6 @@ def main():
         "top_30": articles[:TOP_N],
     }
 
-    # Write only after every article succeeds.
     temporary = OUTPUT_FILE.with_suffix(".json.tmp")
     temporary.write_text(
         json.dumps(
@@ -184,5 +198,8 @@ if __name__ == "__main__":
     try:
         main()
     except Exception as error:
-        print(f"UPDATE FAILED: {error}", file=sys.stderr)
+        print(
+            f"UPDATE FAILED: {error}",
+            file=sys.stderr
+        )
         sys.exit(1)
