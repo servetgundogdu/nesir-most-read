@@ -2,7 +2,7 @@ import json
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, parse_qs
 
@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://nesirdergisi.com/index.php/nesir"
 IDS_FILE = Path("article_ids.json")
 OUTPUT_FILE = Path("most_read.json")
+HISTORY_FILE = Path("statistics_history.json")
 REQUEST_DELAY = 1.5
 TIMEOUT = 25
 MAX_ATTEMPTS = 3
@@ -151,6 +152,73 @@ def read_article(article_id):
             time.sleep(3 * attempt)
 
 
+
+def update_history(articles, timestamp):
+    """Store one cumulative snapshot per UTC day, for every publication."""
+    if HISTORY_FILE.exists():
+        history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+    else:
+        history = {"schema_version": 1, "snapshots": {}}
+    if history.get("schema_version") != 1 or not isinstance(history.get("snapshots"), dict):
+        raise ValueError("Invalid statistics_history.json format")
+
+    day = timestamp.date().isoformat()
+    snapshots = history["snapshots"]
+    if snapshots and day < max(snapshots):
+        raise ValueError("Refusing to insert a snapshot before the most recent day")
+    snapshots[day] = {
+        "captured_at": timestamp.isoformat(timespec="seconds"),
+        "articles": {
+            str(article["id"]): {
+                "abstract": article["abstract"],
+                "pdf": article["pdf"],
+            }
+            for article in articles
+        },
+    }
+    return history
+
+
+def period_ranking(articles, history, timestamp, days):
+    """Return a period ranking only with a real snapshot at/before cutoff.
+
+    A same-day daily snapshot is not a substitute for historical statistics.
+    Counts are differences of cumulative counters, not exact event timestamps.
+    """
+    cutoff = timestamp - timedelta(days=days)
+    candidates = [
+        (datetime.fromisoformat(snap["captured_at"]), snap)
+        for snap in history["snapshots"].values()
+        if datetime.fromisoformat(snap["captured_at"]) <= cutoff
+    ]
+    if not candidates:
+        return None
+    baseline_time, baseline = max(candidates, key=lambda pair: pair[0])
+    # Avoid silently using a very old snapshot and mislabeling the interval.
+    if cutoff - baseline_time > timedelta(hours=36):
+        return None
+    current = history["snapshots"][timestamp.date().isoformat()]["articles"]
+    prior = baseline["articles"]
+    ranked = []
+    for article in articles:
+        key = str(article["id"])
+        if key not in prior or key not in current:
+            continue  # New publication: no complete window of observations.
+        a = current[key]["abstract"] - prior[key]["abstract"]
+        p = current[key]["pdf"] - prior[key]["pdf"]
+        if a < 0 or p < 0:
+            continue  # Counter reset or correction: never turn it into traffic.
+        ranked.append({**article, "abstract": a, "pdf": p, "total": a + p})
+    ranked.sort(key=lambda item: (-item["total"], item["id"]))
+    return {
+        "period": f"last_{days}_days",
+        "baseline_at": baseline_time.isoformat(timespec="seconds"),
+        "updated_at": timestamp.isoformat(timespec="seconds"),
+        "articles_with_complete_window": len(ranked),
+        "top_30": ranked[:TOP_N],
+    }
+
+
 def main():
     existing_ids = json.loads(IDS_FILE.read_text(encoding="utf-8"))
     if (
@@ -181,17 +249,30 @@ def main():
             time.sleep(REQUEST_DELAY)
 
     articles.sort(key=lambda item: (-item["total"], item["id"]))
+    now = datetime.now(timezone.utc)
+    history = update_history(articles, now)
     output = {
-        "updated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "updated_at": now.isoformat(timespec="seconds"),
         "period": "all_time",
         "metric": "abstract_views_plus_file_downloads",
         "articles_checked": len(articles),
         "top_30": articles[:TOP_N],
     }
 
+    # The existing all-time output remains unchanged for the live OJS page.
+    for days, key in ((90, "last_90_days"), (365, "last_365_days")):
+        result = period_ranking(articles, history, now, days)
+        if result is not None:
+            output[key] = result
+        else:
+            print(f"{key}: collecting history; no full daily window yet", flush=True)
+
     temporary = OUTPUT_FILE.with_suffix(".json.tmp")
     temporary.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     temporary.replace(OUTPUT_FILE)
+    history_tmp = HISTORY_FILE.with_suffix(".json.tmp")
+    history_tmp.write_text(json.dumps(history, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    history_tmp.replace(HISTORY_FILE)
     IDS_FILE.write_text(json.dumps(ids, indent=2) + "\n", encoding="utf-8")
     print(f"Success: {len(articles)} articles checked. Saved {OUTPUT_FILE}", flush=True)
 
