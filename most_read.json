@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:13:12+00:00",
+  "updated_at": "2026-11-07T20:25:54+00:00",
   "period": "all_time",
   "metric": "abstract_views_plus_file_downloads",
   "articles_checked": 164,
@@ -8,6 +8,12 @@
       "id": 21,
       "title": "Reshaping the Balance: How Gilman Critiques and Constructs a Feminist Utopia in Herland",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/21",
+      "authors": [
+        "Chang Li"
+      ],
+      "issue": "3",
+      "date": "2022/10/31",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1557,
       "pdf": 2107,
       "total": 3664
@@ -16,6 +22,12 @@
       "id": 134,
       "title": "From Polyphony to \"Dual Authorship\": Transfictional Voices in Benden’iz James Joyce",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/134",
+      "authors": [
+        "Hilal Erkazancı Durmuş"
+      ],
+      "issue": "7",
+      "date": "2024/10/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 2373,
       "pdf": 1084,
       "total": 3457
@@ -24,6 +36,12 @@
       "id": 166,
       "title": "Love, Duty and Sacrifice: The Letters of Pargalı İbrāḥīm to Muḥsine Hanım",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/166",
+      "authors": [
+        "Nilab Saeedi"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1869,
       "pdf": 1455,
       "total": 3324
@@ -32,6 +50,13 @@
       "id": 25,
       "title": "Distopik Yazında Umudun Yolculuğu",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/25",
+      "authors": [
+        "Emrah Atasoy",
+        "Burcu Kayışcı Akkoyun"
+      ],
+      "issue": "3",
+      "date": "2022/10/31",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1524,
       "pdf": 1773,
       "total": 3297
@@ -40,6 +65,13 @@
       "id": 29,
       "title": "Beyond Punishment: Waiting Under the Panoptic Gaze in Aziz’s The Queue",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/29",
+      "authors": [
+        "Aqsa Eram",
+        "Mohd Raghibul Haque"
+      ],
+      "issue": "3",
+      "date": "2022/10/31",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 791,
       "pdf": 2159,
       "total": 2950
@@ -48,6 +80,12 @@
       "id": 15,
       "title": "Nature Strikes Back: A Post-human Gaze into Eco-critical Narratives of James Cameron’s Avatar",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/15",
+      "authors": [
+        "Sutirtho  Roy"
+      ],
+      "issue": "1",
+      "date": "2021/10/28",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1595,
       "pdf": 957,
       "total": 2552
@@ -56,6 +94,12 @@
       "id": 220,
       "title": "Grotesque Sound Poetics and Performative Mimesis in Edith Sitwell’s “Polka”",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/220",
+      "authors": [
+        "Tuğba Karabulut"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1053,
       "pdf": 1476,
       "total": 2529
@@ -64,6 +108,12 @@
       "id": 66,
       "title": "Ezra Pound Mecazi İmgeye Karşı: İmgecilik, Somut Doğrudanlık ve Yeni Eleştiri",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/66",
+      "authors": [
+        "Efe Murat Balıkcıoğlu"
+      ],
+      "issue": "5",
+      "date": "2023/10/18",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1342,
       "pdf": 1180,
       "total": 2522
@@ -72,6 +122,12 @@
       "id": 141,
       "title": "Halide Edib Adıvar: The Forgotten (Self-)Translator Behind the Writer",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/141",
+      "authors": [
+        "Nur Zeynep Kürük Erçetin"
+      ],
+      "issue": "7",
+      "date": "2024/10/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1078,
       "pdf": 1413,
       "total": 2491
@@ -80,6 +136,12 @@
       "id": 117,
       "title": "Edebiyat İncelemeleriyle Türkiye’deki “Yeşil Edebiyat Kanonu”nun Sınırlarını Yeniden Düşünmek",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/117",
+      "authors": [
+        "Ayşe Duygu Yavuz-Yıldırım"
+      ],
+      "issue": "6",
+      "date": "2024/04/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1622,
       "pdf": 763,
       "total": 2385
@@ -88,6 +150,12 @@
       "id": 197,
       "title": "Fuad Köprülü’nün Evrimi: Kozmopolit Düşünceden Millî Edebiyat Tarihine (1909-1913)",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/197",
+      "authors": [
+        "Fatih Altug"
+      ],
+      "issue": "8",
+      "date": "2025/04/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1375,
       "pdf": 954,
       "total": 2329
@@ -96,6 +164,12 @@
       "id": 122,
       "title": "Şairin Şehri: Türk Şiirinde İstanbul’un Estetik ve İdeolojik Dönüşümü",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/122",
+      "authors": [
+        "Olcay Akyıldız"
+      ],
+      "issue": "6",
+      "date": "2024/04/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1138,
       "pdf": 1130,
       "total": 2268
@@ -104,6 +178,13 @@
       "id": 143,
       "title": "Divided Identities and Divided Selves: Fictional Translators in Turkish Literature",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/143",
+      "authors": [
+        "Ahu Selin Erkul Yağcı",
+        "Şehnaz Tahir Gürçağlar"
+      ],
+      "issue": "7",
+      "date": "2024/10/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1454,
       "pdf": 782,
       "total": 2236
@@ -112,6 +193,12 @@
       "id": 232,
       "title": "Wandering Metaphors, Woven Worlds: Icons, Buddha-Idols and Demon-Deities from Inner Asia and India to Ottoman Europe",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/232",
+      "authors": [
+        "Zakir Hussein Gul"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1086,
       "pdf": 1093,
       "total": 2179
@@ -120,6 +207,12 @@
       "id": 165,
       "title": "Nâzım Hikmet'in Şiirlerinde Kötülük",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/165",
+      "authors": [
+        "Ürün Şen Sönmez"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 904,
       "pdf": 1271,
       "total": 2175
@@ -128,6 +221,12 @@
       "id": 60,
       "title": "Viçen Tilkiyan Hakkında Bilgilerimize Ekler ve Osmanlı Edebiyat Piyasasında Taktikler",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/60",
+      "authors": [
+        "Günil Özlem Ayaydın Cebe"
+      ],
+      "issue": "4",
+      "date": "2023/05/04",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1258,
       "pdf": 887,
       "total": 2145
@@ -136,6 +235,12 @@
       "id": 248,
       "title": "Sadeleştirilmiş Yaşam: Aristoteles'te Mimesis ve Şiirin Tümelliği",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/248",
+      "authors": [
+        "Hakan Yücefer"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1222,
       "pdf": 917,
       "total": 2139
@@ -144,6 +249,12 @@
       "id": 243,
       "title": "Cumhuriyet Şiirinin Kısa Tarihi: Bastırılanın Dönüşü",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/243",
+      "authors": [
+        "Yalçın Armağan"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1024,
       "pdf": 1107,
       "total": 2131
@@ -152,6 +263,12 @@
       "id": 63,
       "title": "The Voice of a Pragmatic Moralist: Slavery, Marriage, and Doppelgängers in P. Fahriye’s Turn-of-the-century Novella Dilfikâr (The Brokenhearted)",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/63",
+      "authors": [
+        "Iclal Vanwesenbeeck"
+      ],
+      "issue": "4",
+      "date": "2023/05/04",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 647,
       "pdf": 1466,
       "total": 2113
@@ -160,6 +277,12 @@
       "id": 155,
       "title": "Anadolu’da Türkçe Edebiyatın Doğuşu ve Mesnevi Nazım Biçimi: Yerelleşme, İcra, Ritüel",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/155",
+      "authors": [
+        "Zeynep Oktay"
+      ],
+      "issue": "8",
+      "date": "2025/04/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1344,
       "pdf": 754,
       "total": 2098
@@ -168,6 +291,13 @@
       "id": 268,
       "title": "Sanem: Farsî Verneküler Kuramlarında Mimesis",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/268",
+      "authors": [
+        "Samuel Hodgkin",
+        "Cevat Sucu"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1471,
       "pdf": 588,
       "total": 2059
@@ -176,6 +306,12 @@
       "id": 146,
       "title": "XIX-XX. Asır Osmanlısında Muzır Yahut Yasaklı Yayınlara Ait Belgeler: Ebu Müslim Destanı",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/146",
+      "authors": [
+        "Ali Kozan"
+      ],
+      "issue": "7",
+      "date": "2024/10/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1615,
       "pdf": 438,
       "total": 2053
@@ -184,6 +320,13 @@
       "id": 84,
       "title": "Some Reflections on Poetry",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/84",
+      "authors": [
+        "Ahmet Haşim",
+        "Nefise Kahraman"
+      ],
+      "issue": "5",
+      "date": "2023/10/18",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1480,
       "pdf": 516,
       "total": 1996
@@ -192,6 +335,13 @@
       "id": 44,
       "title": "Ermeni Harfli Türkçe Edebiyat Çalışmaları için Transkripsiyon Standartları Önerisi",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/44",
+      "authors": [
+        "Hülya Çelik",
+        "Ani Sargsyan"
+      ],
+      "issue": "3",
+      "date": "2022/10/31",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 945,
       "pdf": 1048,
       "total": 1993
@@ -200,6 +350,12 @@
       "id": 33,
       "title": "Memory, Dystopias, and Writers: Attempting to Subvert Dystopia for the Future",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/33",
+      "authors": [
+        "Jennifer-Kelso Farrell"
+      ],
+      "issue": "3",
+      "date": "2022/10/31",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 909,
       "pdf": 1056,
       "total": 1965
@@ -208,6 +364,12 @@
       "id": 93,
       "title": "Popüler Kültürde Tutunmak: Osmanlı Kahvehanelerinde Hikâye Anlatıcıları (1550-1850)",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/93",
+      "authors": [
+        "Mustafa Altuğ Yayla"
+      ],
+      "issue": "6",
+      "date": "2024/04/30",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1269,
       "pdf": 694,
       "total": 1963
@@ -216,6 +378,14 @@
       "id": 19,
       "title": "Edebiyatta Hayvan Araştırmaları: Bir mi Birden Fazla mı?",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/19",
+      "authors": [
+        "Susan  McHugh",
+        "Ece  Alparslan",
+        "Cevat  Sucu"
+      ],
+      "issue": "1",
+      "date": "2021/10/28",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1218,
       "pdf": 734,
       "total": 1952
@@ -224,6 +394,12 @@
       "id": 38,
       "title": "Sıradan ve Özgün Anlamlarıyla Ütopya/Distopya",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/38",
+      "authors": [
+        "Emre Mert"
+      ],
+      "issue": "3",
+      "date": "2022/10/31",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 882,
       "pdf": 1003,
       "total": 1885
@@ -232,6 +408,12 @@
       "id": 234,
       "title": "The Architecture of Mimesis in Plato and in the Quran",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/234",
+      "authors": [
+        "Victoria Rowe Holbrook"
+      ],
+      "issue": "9",
+      "date": "2025/10/23",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 1158,
       "pdf": 725,
       "total": 1883
@@ -240,6 +422,13 @@
       "id": 6,
       "title": "Şeyh Ali’nin Ta’bîrnâme’sinde Rüya Türleri ve Hayvan Motifleri",
       "url": "https://nesirdergisi.com/index.php/nesir/article/view/6",
+      "authors": [
+        "Sevim Yılmaz Önder",
+        "Aslıhan Büyükşekerci"
+      ],
+      "issue": "2",
+      "date": "2022/04/28",
+      "journal": "Nesir:  Journal of Literary Studies",
       "abstract": 954,
       "pdf": 908,
       "total": 1862
