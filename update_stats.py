@@ -379,7 +379,7 @@ def period_ranking(
     end = timestamp.date() - timedelta(days=1)
 
     if days == 90:
-        start = end - timedelta(days=89)
+        start = end - timedelta(days=90)
     elif days == 365:
         start = end - timedelta(days=364)
     else:
