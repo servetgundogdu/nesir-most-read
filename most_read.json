@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T11:26:11+00:00",
+  "updated_at": "2026-11-08T11:41:00+00:00",
   "period": "all_time",
   "metric": "abstract_views_plus_file_downloads",
   "articles_checked": 164,
@@ -436,7 +436,7 @@
   ],
   "last_90_days": {
     "period": "last_90_days",
-    "from": "2026-08-10",
+    "from": "2026-08-09",
     "through": "2026-11-07",
     "method": "historical_events_plus_snapshot_deltas",
     "coverage": "partial",
@@ -456,9 +456,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 462,
-        "pdf": 119,
-        "total": 581
+        "abstract": 477,
+        "pdf": 121,
+        "total": 598
       },
       {
         "id": 301,
@@ -470,9 +470,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 335,
+        "abstract": 344,
         "pdf": 228,
-        "total": 563
+        "total": 572
       },
       {
         "id": 320,
@@ -484,23 +484,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 333,
-        "pdf": 223,
-        "total": 556
-      },
-      {
-        "id": 340,
-        "title": "The Well-Tempered Reader: The Legitimization of Adab in the Arabic Literary Tradition: Sarah R. Bin Tyeer, University of California Press, 2026. 250 pp.: ISBN 9780520424982",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/340",
-        "authors": [
-          "Ahmet Barış Ekiz"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 367,
-        "pdf": 150,
-        "total": 517
+        "abstract": 336,
+        "pdf": 224,
+        "total": 560
       },
       {
         "id": 318,
@@ -512,9 +498,23 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 338,
-        "pdf": 177,
-        "total": 515
+        "abstract": 342,
+        "pdf": 180,
+        "total": 522
+      },
+      {
+        "id": 340,
+        "title": "The Well-Tempered Reader: The Legitimization of Adab in the Arabic Literary Tradition: Sarah R. Bin Tyeer, University of California Press, 2026. 250 pp.: ISBN 9780520424982",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/340",
+        "authors": [
+          "Ahmet Barış Ekiz"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 369,
+        "pdf": 151,
+        "total": 520
       },
       {
         "id": 319,
@@ -526,9 +526,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 365,
+        "abstract": 368,
         "pdf": 120,
-        "total": 485
+        "total": 488
       },
       {
         "id": 324,
@@ -541,9 +541,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 358,
-        "pdf": 120,
-        "total": 478
+        "abstract": 367,
+        "pdf": 121,
+        "total": 488
       },
       {
         "id": 329,
@@ -555,9 +555,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 315,
-        "pdf": 163,
-        "total": 478
+        "abstract": 323,
+        "pdf": 164,
+        "total": 487
       },
       {
         "id": 327,
@@ -569,9 +569,23 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 300,
-        "pdf": 176,
-        "total": 476
+        "abstract": 302,
+        "pdf": 181,
+        "total": 483
+      },
+      {
+        "id": 134,
+        "title": "From Polyphony to \"Dual Authorship\": Transfictional Voices in Benden’iz James Joyce",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/134",
+        "authors": [
+          "Hilal Erkazancı Durmuş"
+        ],
+        "issue": "7",
+        "date": "2024/10/30",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 389,
+        "pdf": 82,
+        "total": 471
       },
       {
         "id": 307,
@@ -584,23 +598,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 345,
-        "pdf": 119,
-        "total": 464
-      },
-      {
-        "id": 134,
-        "title": "From Polyphony to \"Dual Authorship\": Transfictional Voices in Benden’iz James Joyce",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/134",
-        "authors": [
-          "Hilal Erkazancı Durmuş"
-        ],
-        "issue": "7",
-        "date": "2024/10/30",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 383,
-        "pdf": 80,
-        "total": 463
+        "abstract": 348,
+        "pdf": 121,
+        "total": 469
       },
       {
         "id": 166,
@@ -612,9 +612,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 267,
-        "pdf": 191,
-        "total": 458
+        "abstract": 270,
+        "pdf": 192,
+        "total": 462
       },
       {
         "id": 332,
@@ -626,8 +626,36 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 334,
-        "pdf": 110,
+        "abstract": 338,
+        "pdf": 112,
+        "total": 450
+      },
+      {
+        "id": 336,
+        "title": "Muharrir ve Edip Hüseyin Cahit: Asır Sonu Osmanlı Edebiyat ve Matbuat Âleminde Bir Yazar: Veysel Öztürk. Dergâh Yayınları. 2025. 389 pp: ISBN 9786259556185",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/336",
+        "authors": [
+          "Deniz Aktan Küçük"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 321,
+        "pdf": 127,
+        "total": 448
+      },
+      {
+        "id": 314,
+        "title": "Literature as a Site of Speculative Thought: On Method and Encounter",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/314",
+        "authors": [
+          "Emre Sünter"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 330,
+        "pdf": 114,
         "total": 444
       },
       {
@@ -645,34 +673,6 @@
         "total": 440
       },
       {
-        "id": 314,
-        "title": "Literature as a Site of Speculative Thought: On Method and Encounter",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/314",
-        "authors": [
-          "Emre Sünter"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 326,
-        "pdf": 114,
-        "total": 440
-      },
-      {
-        "id": 336,
-        "title": "Muharrir ve Edip Hüseyin Cahit: Asır Sonu Osmanlı Edebiyat ve Matbuat Âleminde Bir Yazar: Veysel Öztürk. Dergâh Yayınları. 2025. 389 pp: ISBN 9786259556185",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/336",
-        "authors": [
-          "Deniz Aktan Küçük"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 315,
-        "pdf": 124,
-        "total": 439
-      },
-      {
         "id": 308,
         "title": "Literature’s Refuge: Rewriting the Mediterranean Borderscape: William Stroebel, Princeton University Press, 2025. 320 pp.: ISBN 9780691266091",
         "url": "https://nesirdergisi.com/index.php/nesir/article/view/308",
@@ -682,9 +682,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 301,
-        "pdf": 129,
-        "total": 430
+        "abstract": 304,
+        "pdf": 131,
+        "total": 435
       },
       {
         "id": 334,
@@ -696,23 +696,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 309,
+        "abstract": 313,
         "pdf": 118,
-        "total": 427
-      },
-      {
-        "id": 338,
-        "title": "Canavarların Vaatleri:  Türkçe Feminist Spekülatif Kurmacaya Musallat Olanlar: Ezgi Hamzaçebi. Metis Yayınları, 2025. 320 pp.: ISBN 139786053164326",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/338",
-        "authors": [
-          "Ege Altan"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 294,
-        "pdf": 125,
-        "total": 419
+        "total": 431
       },
       {
         "id": 331,
@@ -724,9 +710,23 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 315,
-        "pdf": 102,
-        "total": 417
+        "abstract": 321,
+        "pdf": 104,
+        "total": 425
+      },
+      {
+        "id": 338,
+        "title": "Canavarların Vaatleri:  Türkçe Feminist Spekülatif Kurmacaya Musallat Olanlar: Ezgi Hamzaçebi. Metis Yayınları, 2025. 320 pp.: ISBN 139786053164326",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/338",
+        "authors": [
+          "Ege Altan"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 298,
+        "pdf": 125,
+        "total": 423
       },
       {
         "id": 299,
@@ -738,9 +738,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 309,
-        "pdf": 104,
-        "total": 413
+        "abstract": 315,
+        "pdf": 105,
+        "total": 420
       },
       {
         "id": 310,
@@ -752,8 +752,22 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 298,
+        "abstract": 304,
         "pdf": 111,
+        "total": 415
+      },
+      {
+        "id": 325,
+        "title": "Cultural Hybridity on a Plate: Food, Identity and Conflict Resolution in Barış Manço’s “Lahburger”",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/325",
+        "authors": [
+          "Reyyan Bal"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 285,
+        "pdf": 124,
         "total": 409
       },
       {
@@ -766,23 +780,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 284,
+        "abstract": 286,
         "pdf": 122,
-        "total": 406
-      },
-      {
-        "id": 325,
-        "title": "Cultural Hybridity on a Plate: Food, Identity and Conflict Resolution in Barış Manço’s “Lahburger”",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/325",
-        "authors": [
-          "Reyyan Bal"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 282,
-        "pdf": 121,
-        "total": 403
+        "total": 408
       },
       {
         "id": 231,
@@ -794,9 +794,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 262,
-        "pdf": 71,
-        "total": 333
+        "abstract": 265,
+        "pdf": 72,
+        "total": 337
       },
       {
         "id": 66,
@@ -823,8 +823,8 @@
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
         "abstract": 175,
-        "pdf": 132,
-        "total": 307
+        "pdf": 133,
+        "total": 308
       },
       {
         "id": 232,
@@ -836,9 +836,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 215,
-        "pdf": 86,
-        "total": 301
+        "abstract": 218,
+        "pdf": 87,
+        "total": 305
       },
       {
         "id": 19,
@@ -852,23 +852,23 @@
         "issue": "1",
         "date": "2021/10/28",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 205,
-        "pdf": 83,
-        "total": 288
+        "abstract": 207,
+        "pdf": 84,
+        "total": 291
       },
       {
-        "id": 409,
-        "title": "Unutmak İçin Yürümek: Açık Şehir ve Uzun Yürüyüş’te Yapısal Travmanın Bedensel Formu",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/409",
+        "id": 234,
+        "title": "The Architecture of Mimesis in Plato and in the Quran",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/234",
         "authors": [
-          "Esen Kara"
+          "Victoria Rowe Holbrook"
         ],
-        "issue": "11",
-        "date": "2026/10/28",
+        "issue": "9",
+        "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 114,
-        "pdf": 169,
-        "total": 283
+        "abstract": 190,
+        "pdf": 94,
+        "total": 284
       }
     ]
   },
