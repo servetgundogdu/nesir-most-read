@@ -375,14 +375,16 @@ def period_ranking(
     differences between cumulative snapshots.
     """
 
-  end = timestamp.date() - timedelta(days=1)
 
-if days == 90:
-    start = end - timedelta(days=89)
-elif days == 365:
-    start = end - timedelta(days=364)
-else:
-    raise ValueError("Unsupported period")
+    end = timestamp.date() - timedelta(days=1)
+
+    if days == 90:
+        start = end - timedelta(days=89)
+    elif days == 365:
+        start = end - timedelta(days=364)
+    else:
+        raise ValueError("Unsupported period")
+
 
     snapshots = history["snapshots"]
 
