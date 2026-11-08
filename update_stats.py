@@ -571,12 +571,12 @@ def period_ranking(
 
     latest_day = available_snapshots[-1][0]
 
-if latest_day < end:
-    return None
+    if latest_day < end:
+        return None
 
-if end.isoformat() not in snapshots:
-    return None
-
+    if end.isoformat() not in snapshots:
+        return None
+    
     ranked = []
 
     for article in articles:
