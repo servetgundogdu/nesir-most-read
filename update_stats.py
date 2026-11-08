@@ -375,8 +375,14 @@ def period_ranking(
     differences between cumulative snapshots.
     """
 
-    end = timestamp.date()
-    start = end - timedelta(days=days - 1)
+  end = timestamp.date() - timedelta(days=1)
+
+if days == 90:
+    start = end - timedelta(days=89)
+elif days == 365:
+    start = end - timedelta(days=364)
+else:
+    raise ValueError("Unsupported period")
 
     snapshots = history["snapshots"]
 
@@ -563,8 +569,11 @@ def period_ranking(
 
     latest_day = available_snapshots[-1][0]
 
-    if latest_day != end:
-        return None
+if latest_day < end:
+    return None
+
+if end.isoformat() not in snapshots:
+    return None
 
     ranked = []
 
