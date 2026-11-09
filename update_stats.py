@@ -188,9 +188,15 @@ def read_article(article_id):
             )
 
             if not stats:
-                raise ValueError(
-                    "Public statistics not found"
-                )
+    print(
+        f"DEBUG article {article_id}: "
+        f"status={response.status_code}, "
+        f"final_url={response.url}, "
+        f"html_length={len(response.text)}, "
+        f"asd_present={'asd-stats-detail' in response.text}",
+        flush=True,
+    )
+    raise ValueError("Public statistics not found")
 
             counts = [
                 parse_number(
