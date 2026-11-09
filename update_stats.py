@@ -187,22 +187,24 @@ def read_article(article_id):
                 ".asd-stats-detail .asd-count"
             )
 
+
+
             if not stats:
-    print(
-        f"DEBUG article {article_id}: "
-        f"status={response.status_code}, "
-        f"final_url={response.url}, "
-        f"html_length={len(response.text)}, "
-        f"asd_present={'asd-stats-detail' in response.text}",
-        flush=True,
-    )
-    raise ValueError("Public statistics not found")
+                print(
+                    f"DEBUG article {article_id}: "
+                    f"status={response.status_code}, "
+                    f"final_url={response.url}, "
+                    f"html_length={len(response.text)}, "
+                    f"asd_present={'asd-stats-detail' in response.text}",
+                    flush=True,
+                )
+                raise ValueError("Public statistics not found")
 
             counts = [
-                parse_number(
-                    node.get_text(" ", strip=True)
-                )
-                for node in stats
+            parse_number(
+                node.get_text(" ", strip=True)
+            )
+            for node in stats
             ]
 
             title = get_meta(
