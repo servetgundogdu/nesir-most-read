@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T17:52:24+00:00",
+  "updated_at": "2026-11-24T17:24:17+00:00",
   "period": "all_time",
   "metric": "abstract_views_plus_file_downloads",
   "articles_checked": 164,
@@ -14,9 +14,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1678,
-      "pdf": 2125,
-      "total": 3803
+      "abstract": 1682,
+      "pdf": 2126,
+      "total": 3808
     },
     {
       "id": 134,
@@ -28,9 +28,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 2491,
-      "pdf": 1096,
-      "total": 3587
+      "abstract": 2497,
+      "pdf": 1099,
+      "total": 3596
     },
     {
       "id": 166,
@@ -42,9 +42,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1971,
-      "pdf": 1483,
-      "total": 3454
+      "abstract": 1977,
+      "pdf": 1488,
+      "total": 3465
     },
     {
       "id": 25,
@@ -57,9 +57,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1614,
-      "pdf": 1792,
-      "total": 3406
+      "abstract": 1619,
+      "pdf": 1793,
+      "total": 3412
     },
     {
       "id": 29,
@@ -72,9 +72,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 867,
-      "pdf": 2188,
-      "total": 3055
+      "abstract": 870,
+      "pdf": 2193,
+      "total": 3063
     },
     {
       "id": 15,
@@ -86,9 +86,9 @@
       "issue": "1",
       "date": "2021/10/28",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1683,
-      "pdf": 968,
-      "total": 2651
+      "abstract": 1686,
+      "pdf": 970,
+      "total": 2656
     },
     {
       "id": 220,
@@ -100,9 +100,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1136,
-      "pdf": 1490,
-      "total": 2626
+      "abstract": 1140,
+      "pdf": 1491,
+      "total": 2631
     },
     {
       "id": 66,
@@ -114,9 +114,9 @@
       "issue": "5",
       "date": "2023/10/18",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1412,
-      "pdf": 1196,
-      "total": 2608
+      "abstract": 1415,
+      "pdf": 1200,
+      "total": 2615
     },
     {
       "id": 141,
@@ -128,9 +128,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1168,
-      "pdf": 1429,
-      "total": 2597
+      "abstract": 1171,
+      "pdf": 1430,
+      "total": 2601
     },
     {
       "id": 117,
@@ -142,9 +142,9 @@
       "issue": "6",
       "date": "2024/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1715,
-      "pdf": 770,
-      "total": 2485
+      "abstract": 1718,
+      "pdf": 771,
+      "total": 2489
     },
     {
       "id": 197,
@@ -156,9 +156,9 @@
       "issue": "8",
       "date": "2025/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1441,
-      "pdf": 969,
-      "total": 2410
+      "abstract": 1445,
+      "pdf": 970,
+      "total": 2415
     },
     {
       "id": 122,
@@ -170,9 +170,9 @@
       "issue": "6",
       "date": "2024/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1210,
-      "pdf": 1152,
-      "total": 2362
+      "abstract": 1214,
+      "pdf": 1153,
+      "total": 2367
     },
     {
       "id": 143,
@@ -185,9 +185,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1525,
-      "pdf": 795,
-      "total": 2320
+      "abstract": 1536,
+      "pdf": 801,
+      "total": 2337
     },
     {
       "id": 165,
@@ -199,9 +199,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1004,
-      "pdf": 1294,
-      "total": 2298
+      "abstract": 1008,
+      "pdf": 1297,
+      "total": 2305
     },
     {
       "id": 232,
@@ -213,9 +213,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1170,
-      "pdf": 1114,
-      "total": 2284
+      "abstract": 1175,
+      "pdf": 1116,
+      "total": 2291
     },
     {
       "id": 248,
@@ -227,9 +227,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1328,
-      "pdf": 930,
-      "total": 2258
+      "abstract": 1332,
+      "pdf": 932,
+      "total": 2264
     },
     {
       "id": 60,
@@ -241,9 +241,9 @@
       "issue": "4",
       "date": "2023/05/04",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1338,
-      "pdf": 901,
-      "total": 2239
+      "abstract": 1341,
+      "pdf": 902,
+      "total": 2243
     },
     {
       "id": 243,
@@ -255,9 +255,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1096,
-      "pdf": 1113,
-      "total": 2209
+      "abstract": 1099,
+      "pdf": 1114,
+      "total": 2213
     },
     {
       "id": 155,
@@ -269,9 +269,9 @@
       "issue": "8",
       "date": "2025/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1422,
-      "pdf": 770,
-      "total": 2192
+      "abstract": 1433,
+      "pdf": 772,
+      "total": 2205
     },
     {
       "id": 63,
@@ -283,9 +283,9 @@
       "issue": "4",
       "date": "2023/05/04",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 699,
-      "pdf": 1475,
-      "total": 2174
+      "abstract": 704,
+      "pdf": 1476,
+      "total": 2180
     },
     {
       "id": 268,
@@ -298,9 +298,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1560,
-      "pdf": 604,
-      "total": 2164
+      "abstract": 1564,
+      "pdf": 605,
+      "total": 2169
     },
     {
       "id": 146,
@@ -312,9 +312,9 @@
       "issue": "7",
       "date": "2024/10/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1697,
-      "pdf": 452,
-      "total": 2149
+      "abstract": 1703,
+      "pdf": 453,
+      "total": 2156
     },
     {
       "id": 84,
@@ -327,9 +327,9 @@
       "issue": "5",
       "date": "2023/10/18",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1553,
-      "pdf": 533,
-      "total": 2086
+      "abstract": 1556,
+      "pdf": 534,
+      "total": 2090
     },
     {
       "id": 44,
@@ -342,9 +342,23 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1007,
-      "pdf": 1062,
-      "total": 2069
+      "abstract": 1012,
+      "pdf": 1063,
+      "total": 2075
+    },
+    {
+      "id": 33,
+      "title": "Memory, Dystopias, and Writers: Attempting to Subvert Dystopia for the Future",
+      "url": "https://nesirdergisi.com/index.php/nesir/article/view/33",
+      "authors": [
+        "Jennifer-Kelso Farrell"
+      ],
+      "issue": "3",
+      "date": "2022/10/31",
+      "journal": "Nesir:  Journal of Literary Studies",
+      "abstract": 995,
+      "pdf": 1069,
+      "total": 2064
     },
     {
       "id": 19,
@@ -358,23 +372,9 @@
       "issue": "1",
       "date": "2021/10/28",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1305,
-      "pdf": 753,
-      "total": 2058
-    },
-    {
-      "id": 33,
-      "title": "Memory, Dystopias, and Writers: Attempting to Subvert Dystopia for the Future",
-      "url": "https://nesirdergisi.com/index.php/nesir/article/view/33",
-      "authors": [
-        "Jennifer-Kelso Farrell"
-      ],
-      "issue": "3",
-      "date": "2022/10/31",
-      "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 990,
-      "pdf": 1068,
-      "total": 2058
+      "abstract": 1308,
+      "pdf": 754,
+      "total": 2062
     },
     {
       "id": 93,
@@ -386,9 +386,9 @@
       "issue": "6",
       "date": "2024/04/30",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1339,
-      "pdf": 712,
-      "total": 2051
+      "abstract": 1343,
+      "pdf": 713,
+      "total": 2056
     },
     {
       "id": 234,
@@ -400,9 +400,9 @@
       "issue": "9",
       "date": "2025/10/23",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 1254,
-      "pdf": 735,
-      "total": 1989
+      "abstract": 1259,
+      "pdf": 738,
+      "total": 1997
     },
     {
       "id": 38,
@@ -414,9 +414,9 @@
       "issue": "3",
       "date": "2022/10/31",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 939,
-      "pdf": 1014,
-      "total": 1953
+      "abstract": 942,
+      "pdf": 1015,
+      "total": 1957
     },
     {
       "id": 320,
@@ -428,15 +428,15 @@
       "issue": "10",
       "date": "2026/04/22",
       "journal": "Nesir:  Journal of Literary Studies",
-      "abstract": 830,
-      "pdf": 1107,
-      "total": 1937
+      "abstract": 834,
+      "pdf": 1112,
+      "total": 1946
     }
   ],
   "last_90_days": {
     "period": "last_90_days",
-    "from": "2026-08-24",
-    "through": "2026-11-22",
+    "from": "2026-08-25",
+    "through": "2026-11-23",
     "method": "historical_events_plus_snapshot_deltas",
     "coverage": "partial",
     "missing_event_days": [
@@ -455,9 +455,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 360,
-        "pdf": 214,
-        "total": 574
+        "abstract": 359,
+        "pdf": 211,
+        "total": 570
       },
       {
         "id": 301,
@@ -469,9 +469,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 355,
-        "pdf": 211,
-        "total": 566
+        "abstract": 353,
+        "pdf": 207,
+        "total": 560
       },
       {
         "id": 318,
@@ -483,9 +483,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 390,
-        "pdf": 165,
-        "total": 555
+        "abstract": 386,
+        "pdf": 168,
+        "total": 554
       },
       {
         "id": 340,
@@ -497,9 +497,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 405,
-        "pdf": 143,
-        "total": 548
+        "abstract": 399,
+        "pdf": 139,
+        "total": 538
       },
       {
         "id": 134,
@@ -511,9 +511,9 @@
         "issue": "7",
         "date": "2024/10/30",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 439,
-        "pdf": 76,
-        "total": 515
+        "abstract": 441,
+        "pdf": 75,
+        "total": 516
       },
       {
         "id": 303,
@@ -525,24 +525,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 375,
-        "pdf": 125,
-        "total": 500
-      },
-      {
-        "id": 307,
-        "title": "Posthuman Childhood and the Pedagogy of Becoming in Ursula K. Le Guin’s Catwings Series",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/307",
-        "authors": [
-          "Başak Ağın",
-          "Serra Süeda Öztürk"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 390,
-        "pdf": 108,
-        "total": 498
+        "abstract": 373,
+        "pdf": 123,
+        "total": 496
       },
       {
         "id": 166,
@@ -555,8 +540,23 @@
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
         "abstract": 312,
-        "pdf": 184,
-        "total": 496
+        "pdf": 183,
+        "total": 495
+      },
+      {
+        "id": 307,
+        "title": "Posthuman Childhood and the Pedagogy of Becoming in Ursula K. Le Guin’s Catwings Series",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/307",
+        "authors": [
+          "Başak Ağın",
+          "Serra Süeda Öztürk"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 389,
+        "pdf": 106,
+        "total": 495
       },
       {
         "id": 409,
@@ -568,23 +568,9 @@
         "issue": "11",
         "date": "2026/10/28",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 237,
-        "pdf": 247,
-        "total": 484
-      },
-      {
-        "id": 329,
-        "title": "Literature Against Life:  Communication and Evil in the Writings of Ömer Seyfettin (1884–1920)",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/329",
-        "authors": [
-          "Erik Blackthorne-O'Barr"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 349,
-        "pdf": 134,
-        "total": 483
+        "abstract": 239,
+        "pdf": 251,
+        "total": 490
       },
       {
         "id": 327,
@@ -596,9 +582,23 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 334,
+        "abstract": 335,
         "pdf": 146,
-        "total": 480
+        "total": 481
+      },
+      {
+        "id": 329,
+        "title": "Literature Against Life:  Communication and Evil in the Writings of Ömer Seyfettin (1884–1920)",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/329",
+        "authors": [
+          "Erik Blackthorne-O'Barr"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 346,
+        "pdf": 132,
+        "total": 478
       },
       {
         "id": 324,
@@ -611,9 +611,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 371,
-        "pdf": 108,
-        "total": 479
+        "abstract": 368,
+        "pdf": 107,
+        "total": 475
       },
       {
         "id": 319,
@@ -625,23 +625,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 364,
-        "pdf": 101,
+        "abstract": 366,
+        "pdf": 99,
         "total": 465
-      },
-      {
-        "id": 257,
-        "title": "The Concept of Mimesis: History, Meaning, and Epistemic Context",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/257",
-        "authors": [
-          "Josef Früchtl"
-        ],
-        "issue": "9",
-        "date": "2025/10/23",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 371,
-        "pdf": 91,
-        "total": 462
       },
       {
         "id": 332,
@@ -653,23 +639,23 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 361,
+        "abstract": 362,
         "pdf": 101,
-        "total": 462
+        "total": 463
       },
       {
-        "id": 331,
-        "title": "Three Empires and Persian Historiography: The Thought of Muṣliḥ al-Dīn Lārī: Nilab Saeedi, Routledge, 2025. 224 pp: ISBN 9781003660507",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/331",
+        "id": 257,
+        "title": "The Concept of Mimesis: History, Meaning, and Epistemic Context",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/257",
         "authors": [
-          "Muhammed Salih Sefiloğlu"
+          "Josef Früchtl"
         ],
-        "issue": "10",
-        "date": "2026/04/22",
+        "issue": "9",
+        "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 356,
-        "pdf": 101,
-        "total": 457
+        "abstract": 370,
+        "pdf": 91,
+        "total": 461
       },
       {
         "id": 336,
@@ -681,9 +667,37 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 339,
-        "pdf": 116,
-        "total": 455
+        "abstract": 344,
+        "pdf": 113,
+        "total": 457
+      },
+      {
+        "id": 331,
+        "title": "Three Empires and Persian Historiography: The Thought of Muṣliḥ al-Dīn Lārī: Nilab Saeedi, Routledge, 2025. 224 pp: ISBN 9781003660507",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/331",
+        "authors": [
+          "Muhammed Salih Sefiloğlu"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 357,
+        "pdf": 99,
+        "total": 456
+      },
+      {
+        "id": 363,
+        "title": "Yazılan ve Okunan Beden: Osmanlı Kültüründe Kıyâfet İlmi",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/363",
+        "authors": [
+          "İrvin Cemil Schick"
+        ],
+        "issue": "11",
+        "date": "2026/10/28",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 291,
+        "pdf": 148,
+        "total": 439
       },
       {
         "id": 314,
@@ -695,9 +709,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 337,
-        "pdf": 98,
-        "total": 435
+        "abstract": 341,
+        "pdf": 96,
+        "total": 437
       },
       {
         "id": 299,
@@ -710,8 +724,8 @@
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
         "abstract": 336,
-        "pdf": 97,
-        "total": 433
+        "pdf": 96,
+        "total": 432
       },
       {
         "id": 334,
@@ -723,36 +737,22 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 329,
-        "pdf": 104,
-        "total": 433
+        "abstract": 326,
+        "pdf": 103,
+        "total": 429
       },
       {
-        "id": 363,
-        "title": "Yazılan ve Okunan Beden: Osmanlı Kültüründe Kıyâfet İlmi",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/363",
+        "id": 323,
+        "title": "“Lafzdan Zîrâ ki Ma‘nâdır Garaz”: Eski Türk Edebiyatında Lafız, Mana ve Niyet",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/323",
         "authors": [
-          "İrvin Cemil Schick"
-        ],
-        "issue": "11",
-        "date": "2026/10/28",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 284,
-        "pdf": 144,
-        "total": 428
-      },
-      {
-        "id": 325,
-        "title": "Cultural Hybridity on a Plate: Food, Identity and Conflict Resolution in Barış Manço’s “Lahburger”",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/325",
-        "authors": [
-          "Reyyan Bal"
+          "Abdullah Tahir Özdemir"
         ],
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 325,
-        "pdf": 102,
+        "abstract": 316,
+        "pdf": 111,
         "total": 427
       },
       {
@@ -765,37 +765,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 313,
-        "pdf": 114,
-        "total": 427
-      },
-      {
-        "id": 308,
-        "title": "Literature’s Refuge: Rewriting the Mediterranean Borderscape: William Stroebel, Princeton University Press, 2025. 320 pp.: ISBN 9780691266091",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/308",
-        "authors": [
-          "Hilal Bektaş"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 313,
-        "pdf": 113,
-        "total": 426
-      },
-      {
-        "id": 323,
-        "title": "“Lafzdan Zîrâ ki Ma‘nâdır Garaz”: Eski Türk Edebiyatında Lafız, Mana ve Niyet",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/323",
-        "authors": [
-          "Abdullah Tahir Özdemir"
-        ],
-        "issue": "10",
-        "date": "2026/04/22",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 313,
-        "pdf": 112,
-        "total": 425
+        "abstract": 314,
+        "pdf": 110,
+        "total": 424
       },
       {
         "id": 343,
@@ -807,9 +779,37 @@
         "issue": "11",
         "date": "2026/10/28",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 260,
-        "pdf": 158,
-        "total": 418
+        "abstract": 263,
+        "pdf": 161,
+        "total": 424
+      },
+      {
+        "id": 308,
+        "title": "Literature’s Refuge: Rewriting the Mediterranean Borderscape: William Stroebel, Princeton University Press, 2025. 320 pp.: ISBN 9780691266091",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/308",
+        "authors": [
+          "Hilal Bektaş"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 311,
+        "pdf": 111,
+        "total": 422
+      },
+      {
+        "id": 325,
+        "title": "Cultural Hybridity on a Plate: Food, Identity and Conflict Resolution in Barış Manço’s “Lahburger”",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/325",
+        "authors": [
+          "Reyyan Bal"
+        ],
+        "issue": "10",
+        "date": "2026/04/22",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 321,
+        "pdf": 100,
+        "total": 421
       },
       {
         "id": 310,
@@ -821,9 +821,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 318,
-        "pdf": 94,
-        "total": 412
+        "abstract": 316,
+        "pdf": 91,
+        "total": 407
       },
       {
         "id": 230,
@@ -835,9 +835,9 @@
         "issue": "11",
         "date": "2026/10/28",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 207,
-        "pdf": 165,
-        "total": 372
+        "abstract": 210,
+        "pdf": 167,
+        "total": 377
       },
       {
         "id": 231,
@@ -849,9 +849,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 298,
+        "abstract": 297,
         "pdf": 69,
-        "total": 367
+        "total": 366
       },
       {
         "id": 158,
@@ -863,16 +863,16 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 233,
-        "pdf": 128,
-        "total": 361
+        "abstract": 234,
+        "pdf": 130,
+        "total": 364
       }
     ]
   },
   "last_365_days": {
     "period": "last_365_days",
-    "from": "2025-11-23",
-    "through": "2026-11-22",
+    "from": "2025-11-24",
+    "through": "2026-11-23",
     "method": "historical_events_plus_snapshot_deltas",
     "coverage": "partial",
     "missing_event_days": [
@@ -892,8 +892,8 @@
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
         "abstract": 1880,
-        "pdf": 1390,
-        "total": 3270
+        "pdf": 1387,
+        "total": 3267
       },
       {
         "id": 220,
@@ -905,9 +905,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 971,
-        "pdf": 1430,
-        "total": 2401
+        "abstract": 967,
+        "pdf": 1432,
+        "total": 2399
       },
       {
         "id": 165,
@@ -919,9 +919,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 913,
+        "abstract": 924,
         "pdf": 1235,
-        "total": 2148
+        "total": 2159
       },
       {
         "id": 29,
@@ -934,9 +934,9 @@
         "issue": "3",
         "date": "2022/10/31",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 478,
+        "abstract": 481,
         "pdf": 1650,
-        "total": 2128
+        "total": 2131
       },
       {
         "id": 134,
@@ -948,9 +948,9 @@
         "issue": "7",
         "date": "2024/10/30",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1414,
-        "pdf": 681,
-        "total": 2095
+        "abstract": 1410,
+        "pdf": 670,
+        "total": 2080
       },
       {
         "id": 232,
@@ -962,23 +962,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1026,
-        "pdf": 1040,
-        "total": 2066
-      },
-      {
-        "id": 243,
-        "title": "Cumhuriyet Şiirinin Kısa Tarihi: Bastırılanın Dönüşü",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/243",
-        "authors": [
-          "Yalçın Armağan"
-        ],
-        "issue": "9",
-        "date": "2025/10/23",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 942,
-        "pdf": 1078,
-        "total": 2020
+        "abstract": 1028,
+        "pdf": 1039,
+        "total": 2067
       },
       {
         "id": 248,
@@ -990,9 +976,23 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1159,
-        "pdf": 859,
-        "total": 2018
+        "abstract": 1163,
+        "pdf": 862,
+        "total": 2025
+      },
+      {
+        "id": 243,
+        "title": "Cumhuriyet Şiirinin Kısa Tarihi: Bastırılanın Dönüşü",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/243",
+        "authors": [
+          "Yalçın Armağan"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 944,
+        "pdf": 1078,
+        "total": 2022
       },
       {
         "id": 268,
@@ -1005,9 +1005,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1461,
-        "pdf": 556,
-        "total": 2017
+        "abstract": 1462,
+        "pdf": 552,
+        "total": 2014
       },
       {
         "id": 320,
@@ -1019,9 +1019,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 822,
-        "pdf": 1124,
-        "total": 1946
+        "abstract": 830,
+        "pdf": 1127,
+        "total": 1957
       },
       {
         "id": 141,
@@ -1033,9 +1033,9 @@
         "issue": "7",
         "date": "2024/10/30",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 664,
-        "pdf": 1251,
-        "total": 1915
+        "abstract": 665,
+        "pdf": 1249,
+        "total": 1914
       },
       {
         "id": 319,
@@ -1047,9 +1047,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 979,
+        "abstract": 984,
         "pdf": 858,
-        "total": 1837
+        "total": 1842
       },
       {
         "id": 301,
@@ -1061,9 +1061,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 923,
+        "abstract": 928,
         "pdf": 911,
-        "total": 1834
+        "total": 1839
       },
       {
         "id": 327,
@@ -1075,23 +1075,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 961,
-        "pdf": 802,
-        "total": 1763
-      },
-      {
-        "id": 231,
-        "title": "Abject Mimesis: Grotesque Femininity and the Crisis of Representation in Lady Oracle and The Gaze",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/231",
-        "authors": [
-          "Henrieta Krupa"
-        ],
-        "issue": "9",
-        "date": "2025/10/23",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1300,
-        "pdf": 445,
-        "total": 1745
+        "abstract": 966,
+        "pdf": 804,
+        "total": 1770
       },
       {
         "id": 303,
@@ -1103,9 +1089,23 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1115,
+        "abstract": 1121,
         "pdf": 627,
-        "total": 1742
+        "total": 1748
+      },
+      {
+        "id": 231,
+        "title": "Abject Mimesis: Grotesque Femininity and the Crisis of Representation in Lady Oracle and The Gaze",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/231",
+        "authors": [
+          "Henrieta Krupa"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1297,
+        "pdf": 444,
+        "total": 1741
       },
       {
         "id": 21,
@@ -1117,9 +1117,9 @@
         "issue": "3",
         "date": "2022/10/31",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 875,
-        "pdf": 854,
-        "total": 1729
+        "abstract": 876,
+        "pdf": 849,
+        "total": 1725
       },
       {
         "id": 234,
@@ -1131,9 +1131,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1057,
-        "pdf": 631,
-        "total": 1688
+        "abstract": 1059,
+        "pdf": 630,
+        "total": 1689
       },
       {
         "id": 146,
@@ -1145,9 +1145,9 @@
         "issue": "7",
         "date": "2024/10/30",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1350,
+        "abstract": 1348,
         "pdf": 327,
-        "total": 1677
+        "total": 1675
       },
       {
         "id": 158,
@@ -1159,9 +1159,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1036,
-        "pdf": 624,
-        "total": 1660
+        "abstract": 1039,
+        "pdf": 625,
+        "total": 1664
       },
       {
         "id": 197,
@@ -1173,9 +1173,9 @@
         "issue": "8",
         "date": "2025/04/30",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 958,
-        "pdf": 694,
-        "total": 1652
+        "abstract": 960,
+        "pdf": 693,
+        "total": 1653
       },
       {
         "id": 66,
@@ -1187,9 +1187,9 @@
         "issue": "5",
         "date": "2023/10/18",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 864,
+        "abstract": 865,
         "pdf": 786,
-        "total": 1650
+        "total": 1651
       },
       {
         "id": 63,
@@ -1201,23 +1201,9 @@
         "issue": "4",
         "date": "2023/05/04",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 454,
-        "pdf": 1194,
+        "abstract": 455,
+        "pdf": 1193,
         "total": 1648
-      },
-      {
-        "id": 257,
-        "title": "The Concept of Mimesis: History, Meaning, and Epistemic Context",
-        "url": "https://nesirdergisi.com/index.php/nesir/article/view/257",
-        "authors": [
-          "Josef Früchtl"
-        ],
-        "issue": "9",
-        "date": "2025/10/23",
-        "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1106,
-        "pdf": 532,
-        "total": 1638
       },
       {
         "id": 329,
@@ -1229,9 +1215,23 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 913,
+        "abstract": 916,
         "pdf": 724,
-        "total": 1637
+        "total": 1640
+      },
+      {
+        "id": 257,
+        "title": "The Concept of Mimesis: History, Meaning, and Epistemic Context",
+        "url": "https://nesirdergisi.com/index.php/nesir/article/view/257",
+        "authors": [
+          "Josef Früchtl"
+        ],
+        "issue": "9",
+        "date": "2025/10/23",
+        "journal": "Nesir:  Journal of Literary Studies",
+        "abstract": 1103,
+        "pdf": 529,
+        "total": 1632
       },
       {
         "id": 25,
@@ -1245,8 +1245,8 @@
         "date": "2022/10/31",
         "journal": "Nesir:  Journal of Literary Studies",
         "abstract": 772,
-        "pdf": 855,
-        "total": 1627
+        "pdf": 852,
+        "total": 1624
       },
       {
         "id": 15,
@@ -1258,9 +1258,9 @@
         "issue": "1",
         "date": "2021/10/28",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 1008,
+        "abstract": 1014,
         "pdf": 564,
-        "total": 1572
+        "total": 1578
       },
       {
         "id": 307,
@@ -1273,9 +1273,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 998,
+        "abstract": 1002,
         "pdf": 497,
-        "total": 1495
+        "total": 1499
       },
       {
         "id": 318,
@@ -1287,9 +1287,9 @@
         "issue": "10",
         "date": "2026/04/22",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 965,
-        "pdf": 515,
-        "total": 1480
+        "abstract": 968,
+        "pdf": 521,
+        "total": 1489
       },
       {
         "id": 261,
@@ -1301,9 +1301,9 @@
         "issue": "9",
         "date": "2025/10/23",
         "journal": "Nesir:  Journal of Literary Studies",
-        "abstract": 772,
+        "abstract": 774,
         "pdf": 699,
-        "total": 1471
+        "total": 1473
       }
     ]
   }
